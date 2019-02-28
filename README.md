@@ -19,9 +19,10 @@
 * 無線、有線ネットワーク
   * Scenargie, ns-2
   * Cisco IOS, Arista EOS, VyOS
-* Linux
+* OS
   * Red Hat Enterprise Linux(RHEL) / CentOS
   * VMware ESXi / vCenter Server
+  * Windows Server 2012, 2016
 * Other
   * C++/Python
   * bash
