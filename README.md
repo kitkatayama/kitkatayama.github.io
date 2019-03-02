@@ -48,10 +48,10 @@
 
 ## translation
 
-* [Challonge.comの英日翻訳](https://challonge.com/)
+* [Challonge.comの英日翻訳](https://moffumoffu.hatenablog.com/entry/2019/03/02/184623)
 
 ## owned domains
 
-* [kitkatayama.com](https://www.kitkatayama.com/) (2018/10/22-) for using AWS and personal info
-* [moffulab.com](https://www.moffulab.com/) (2015/03/03-) for using Office365 and gaming purpose
+* [kitkatayama.com](https://kitkatayama.com/) (2018/10/22-) for using AWS and personal info
+* [moffulab.com](https://moffulab.com/) (2015/03/03-) for using Office365 and gaming purpose
 * 2next.org (2005/11/05-) for testing G Suite (used to be general purpose)
