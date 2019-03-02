@@ -1,6 +1,6 @@
 # kitkatayama
 
-![my icon](./icon.png =100x100)
+![my icon](https://www.kitkatayama.com/icon.png)
 
 ## about me
 
