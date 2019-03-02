@@ -1,5 +1,7 @@
 # kitkatayama
 
+![my icon](./icon.png =100x100)
+
 ## about me
 
 * もふもふ / K.Katayama (@kitkatayama, [Twitter](https://twitter.com/kitkatayama), [Blog](https://moffumoffu.hatenablog.com/)) 
@@ -54,4 +56,4 @@
 
 * [kitkatayama.com](https://www.kitkatayama.com/) (2018/10/22-) for using AWS and personal info
 * [moffulab.com](https://www.moffulab.com/) (2015/03/03-) for using Office365 and gaming purpose
-* 2next.org (2005/11/05-) for testing G Suites (used to be general purpose)
+* 2next.org (2005/11/05-) for testing G Suite (used to be general purpose)
