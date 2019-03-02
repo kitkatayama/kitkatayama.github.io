@@ -1,7 +1,5 @@
 # kitkatayama
 
-![my icon](https://www.kitkatayama.com/icon.png)
-
 ## about me
 
 * もふもふ / K.Katayama (@kitkatayama, [Twitter](https://twitter.com/kitkatayama), [Blog](https://moffumoffu.hatenablog.com/)) 
