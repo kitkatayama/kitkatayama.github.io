@@ -55,3 +55,15 @@
 * [kitkatayama.com](https://kitkatayama.com/) (2018/10/22-) for using AWS and personal info
 * [moffulab.com](https://moffulab.com/) (2015/03/03-) for using Office365 and gaming purpose
 * 2next.org (2005/11/05-) for testing G Suite (used to be general purpose)
+
+
+---
+
+## will be at
+
+* 2019/03/12 [Serverless Meetup Fukuoka #4](https://serverless.connpass.com/event/120972/)
+* 2019/03/13 [SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/)
+* 2019/03/22 [レンタルサーバーMeetup in福岡](https://pepabo.connpass.com/event/121825/)
+* 2019/04/04 [ゆるっとIT vol.10「ソフトウェアテストの話を聞こう」](https://yurutto-it.connpass.com/event/123280/) as Otetsudai
+* 2019/04/14 [Visual Studio 2019 Launch Event in Fukuoka](https://fukuten.connpass.com/event/121948/)
+* 2019/04/19 [RPA勉強＆LT会！RPALT 福岡 vol.01](https://rpacommunity.connpass.com/event/123191/)
