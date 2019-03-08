@@ -62,7 +62,7 @@
 
 ## will be at
 
-* 2019/03/12 [Serverless Meetup Fukuoka #4](https://serverless.connpass.com/event/120972/)
+* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://oss-gate-fukuoka.connpass.com/event/121702/)
 * 2019/03/13 [SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/)
 * 2019/03/22 [レンタルサーバーMeetup in福岡](https://pepabo.connpass.com/event/121825/)
 * 2019/04/04 [ゆるっとIT vol.10「ソフトウェアテストの話を聞こう」](https://yurutto-it.connpass.com/event/123280/) as Otetsudai
