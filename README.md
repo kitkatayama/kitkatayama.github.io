@@ -2,7 +2,8 @@
 
 ## about me
 
-* もふもふ / K.Katayama (@kitkatayama, [Twitter](https://twitter.com/kitkatayama), [Blog](https://moffumoffu.hatenablog.com/)) 
+* もふもふ or K.Katayama, as kitkatayama
+  * [Twitter](https://twitter.com/kitkatayama), [Hatena Blog](https://moffumoffu.hatenablog.com/), [facebook](https://www.facebook.com/kitkazuokatayama)
 * あらすじ
   * 中学～高校にかけてWebサイト公開の楽しさを知り、2005/11/15にドメインを取得。ドメインを運用する際にDNSやメール・Webの仕組みに触れ情報工学の楽しさに気づく。より専門的な内容を学ぶため九州工業大学へ入学。
   * 大学で専門を学んだ結果、昨今の技術はネットワーク技術が不可欠であることを確信し、さらに仕組みの美しさに魅入られる。ネットワークに関わる様々な仕様を学びつつ、[車車間ネットワークの研究](https://www.toyota-itc.com/publications/index.php?year=1&user=1167)に取り組む。
