@@ -14,9 +14,9 @@
 ## career
 
 * 2018/11 - 2019/03 none
-* 2016/04 - 2018/11 都内SIer(※非上場会社)
-* 2013/04 - 2016/03 九州工業大学大学院 情報システム専攻(中退)
-* 2008/04 - 2013/03 九州工業大学情報工学部電子情報工学科(卒業)
+* 2016/04 - 2018/11 都内SIer(非上場)
+* 2013/04 - 2016/03 国立九州工業大学大学院 情報システム専攻 中退
+* 2008/04 - 2013/03 国立九州工業大学 情報工学部 電子情報工学科　卒業
 
 ## hobby
 
@@ -56,15 +56,24 @@
 * [kitkatayama.com](https://kitkatayama.com/) (2018/10/22-) for using AWS and personal info
 * [moffulab.com](https://moffulab.com/) (2015/03/03-) for using Office365 and gaming purpose
 * 2next.org (2005/11/05-) for testing G Suite (used to be general purpose)
+* omoi.dev (2019/03/14-)
 
 
 ---
 
 ## will be at
 
-* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://oss-gate-fukuoka.connpass.com/event/121702/)
-* 2019/03/13 [SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/)
+
 * 2019/03/22 [レンタルサーバーMeetup in福岡](https://pepabo.connpass.com/event/121825/)
 * 2019/04/04 [ゆるっとIT vol.10「ソフトウェアテストの話を聞こう」](https://yurutto-it.connpass.com/event/123280/) as Otetsudai
 * 2019/04/14 [Visual Studio 2019 Launch Event in Fukuoka](https://fukuten.connpass.com/event/121948/)
 * 2019/04/19 [RPA勉強＆LT会！RPALT 福岡 vol.01](https://rpacommunity.connpass.com/event/123191/)
+
+## was at
+<details>
+<summary>spoiler</summary>
+
+* 2019/03/13 [SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/)
+* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://oss-gate-fukuoka.connpass.com/event/121702/)
+* 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://jawsug-bgnr.connpass.com/event/101789/), [Blog](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
+</details>
