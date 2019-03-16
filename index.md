@@ -55,11 +55,11 @@
 
 ### speaked
 
-* 2018/10/17 [怖くないクラウドインフラストラクチャサービス(JAWS-UG 初心者支部)](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
-* 2018/08/12 [timeという概念(インフラ勉強会)](https://moffumoffu.hatenablog.com/entry/2018/10/18/204454)
-* 2018/08/12 [さくらインターネットのことを知りたい！(インフラ勉強会)](https://moffumoffu.hatenablog.com/entry/2018/10/18/204454)
-* 2018/07/07 [ネットワークのお気持ち 物理編(インフラ勉強会)](https://moffumoffu.hatenablog.com/entry/2018/08/04/092854)
-* 2017/03/19 [学生の権利、使ってますか？(Dentoo.LT)](https://www.slideshare.net/KazuoKatayama/ss-73352980)
+* 2018/10/17 [怖くないクラウドインフラストラクチャサービス](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
+* 2018/08/12 [timeという概念](https://moffumoffu.hatenablog.com/entry/2018/10/18/204454)
+* 2018/08/12 [さくらインターネットのことを知りたい！](https://moffumoffu.hatenablog.com/entry/2018/10/18/204454)
+* 2018/07/07 [ネットワークのお気持ち 物理編](https://moffumoffu.hatenablog.com/entry/2018/08/04/092854)
+* 2017/03/19 [学生の権利、使ってますか？](https://www.slideshare.net/KazuoKatayama/ss-73352980)
 
 ### was at
 
