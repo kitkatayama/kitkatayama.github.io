@@ -61,15 +61,15 @@
 * 2018/07/07 [ネットワークのお気持ち 物理編(インフラ勉強会)](https://moffumoffu.hatenablog.com/entry/2018/08/04/092854)
 * 2017/03/19 [学生の権利、使ってますか？(Dentoo.LT)](https://www.slideshare.net/KazuoKatayama/ss-73352980)
 
+### was at
+
+* 2019/03/13 [SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2019/03/14/031112)
+* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://oss-gate-fukuoka.connpass.com/event/121702/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2019/03/15/211221)
+* 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://jawsug-bgnr.connpass.com/event/101789/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
+
 ### will be at
 
 * 2019/03/22 [レンタルサーバーMeetup in福岡](https://pepabo.connpass.com/event/121825/)
 * 2019/04/04 [ゆるっとIT vol.10「ソフトウェアテストの話を聞こう」](https://yurutto-it.connpass.com/event/123280/) as Otetsudai
 * 2019/04/14 [Visual Studio 2019 Launch Event in Fukuoka](https://fukuten.connpass.com/event/121948/)
 * 2019/04/19 [RPA勉強＆LT会！RPALT 福岡 vol.01](https://rpacommunity.connpass.com/event/123191/)
-
-### was at
-
-* 2019/03/13 [SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2019/03/14/031112)
-* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://oss-gate-fukuoka.connpass.com/event/121702/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2019/03/15/211221)
-* 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://jawsug-bgnr.connpass.com/event/101789/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
