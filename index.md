@@ -3,7 +3,7 @@
 ## about me
 
 * もふもふ or Kazuo KATAYAMA, as <b>kitkatayama</b>
-  * accounts: [Twitter](https://twitter.com/kitkatayama), [GitHub](https://github.com/kitkatayama), [Hatena Blog](https://moffumoffu.hatenablog.com/), [facebook](https://www.facebook.com/kitkazuokatayama), [infra-workshop](https://wiki.infra-workshop.tech/user/kitkatayama)
+  * accounts: [Twitter](https://twitter.com/kitkatayama), [GitHub](https://github.com/kitkatayama), [Hatena Blog](https://kitkatayama.hatenablog.com/), [facebook](https://www.facebook.com/kitkazuokatayama), [infra-workshop](https://wiki.infra-workshop.tech/user/kitkatayama)
   * email: [iam@kitkatayama.com](mailto:iam@kitkatayama.com)
 * あらすじ
   * 中学～高校にかけてWebサイト公開の楽しさを知り、2005/11/15にドメインを取得。ドメインを運用する際にDNSやメール・Webの仕組みに触れ情報工学の楽しさに気づく。より専門的な内容を学ぶため九州工業大学へ入学。
@@ -29,7 +29,7 @@
   * VMware ESXi / vCenter Server
   * Windows Server 2012, 2016
 * translation
-  * [Challonge.com 英日翻訳](https://moffumoffu.hatenablog.com/entry/2019/03/02/184623)
+  * [Challonge.com 英日翻訳](https://kitkatayama.hatenablog.com/entry/2019/03/02/184623)
 * Other
   * C++/Python
   * bash
@@ -56,17 +56,17 @@
 
 ### speaked
 
-* 2018/10/17 [怖くないクラウドインフラストラクチャサービス](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
-* 2018/08/12 [timeという概念](https://moffumoffu.hatenablog.com/entry/2018/10/18/204454)
-* 2018/08/12 [さくらインターネットのことを知りたい！](https://moffumoffu.hatenablog.com/entry/2018/10/18/204454)
-* 2018/07/07 [ネットワークのお気持ち 物理編](https://moffumoffu.hatenablog.com/entry/2018/08/04/092854)
+* 2018/10/17 [怖くないクラウドインフラストラクチャサービス](https://kitkatayama.hatenablog.com/entry/2018/10/18/202840)
+* 2018/08/12 [timeという概念](https://kitkatayama.hatenablog.com/entry/2018/10/18/204454)
+* 2018/08/12 [さくらインターネットのことを知りたい！](https://kitkatayama.hatenablog.com/entry/2018/10/18/204454)
+* 2018/07/07 [ネットワークのお気持ち 物理編](https://kitkatayama.hatenablog.com/entry/2018/08/04/092854)
 * 2017/03/19 [学生の権利、使ってますか？](https://www.slideshare.net/KazuoKatayama/ss-73352980)
 
 ### was at
 
-* 2019/03/13 [SRE meetup at Fukuoka #1](https://moffumoffu.hatenablog.com/entry/2019/03/14/031112)
-* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://moffumoffu.hatenablog.com/entry/2019/03/15/211221)
-* 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
+* 2019/03/13 [SRE meetup at Fukuoka #1](https://kitkatayama.hatenablog.com/entry/2019/03/14/031112)
+* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://kitkatayama.hatenablog.com/entry/2019/03/15/211221)
+* 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://kitkatayama.hatenablog.com/entry/2018/10/18/202840)
 
 ### will be at
 
