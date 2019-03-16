@@ -2,8 +2,8 @@
 
 ## about me
 
-* もふもふ or K.Katayama, as kitkatayama
-  * [Twitter](https://twitter.com/kitkatayama), [GitHub](https://github.com/kitkatayama), [Hatena Blog](https://moffumoffu.hatenablog.com/), [facebook](https://www.facebook.com/kitkazuokatayama)
+* もふもふ or Kazuo KATAYAMA, as <b>kitkatayama</b>
+  * [Twitter](https://twitter.com/kitkatayama), [GitHub](https://github.com/kitkatayama), [Hatena Blog](https://moffumoffu.hatenablog.com/), [facebook](https://www.facebook.com/kitkazuokatayama), [インフラ勉強会Wiki](https://wiki.infra-workshop.tech/user/kitkatayama)
 * あらすじ
   * 中学～高校にかけてWebサイト公開の楽しさを知り、2005/11/15にドメインを取得。ドメインを運用する際にDNSやメール・Webの仕組みに触れ情報工学の楽しさに気づく。より専門的な内容を学ぶため九州工業大学へ入学。
   * 大学で専門を学んだ結果、昨今の技術はネットワーク技術が不可欠であることを確信し、さらに仕組みの美しさに魅入られる。ネットワークに関わる様々な仕様を学びつつ、[車車間ネットワークの研究](https://www.toyota-itc.com/publications/index.php?year=1&user=1167)に取り組む。
@@ -34,7 +34,6 @@
   * bash
   * PowerShell/PowerCLI
 
-
 ## certification
 
 * 2017/04/01 情報処理安全確保支援士([登録番号: 002464](https://riss.ipa.go.jp/r?r=002464))
@@ -55,6 +54,7 @@
 ## seminar
 
 ### speaked
+
 * 2018/10/17 [怖くないクラウドインフラストラクチャサービス(JAWS-UG 初心者支部)](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
 * 2018/08/12 [timeという概念(インフラ勉強会)](https://moffumoffu.hatenablog.com/entry/2018/10/18/204454)
 * 2018/08/12 [さくらインターネットのことを知りたい！(インフラ勉強会)](https://moffumoffu.hatenablog.com/entry/2018/10/18/204454)
@@ -73,6 +73,3 @@
 * 2019/03/13 [SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2019/03/14/031112)
 * 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://oss-gate-fukuoka.connpass.com/event/121702/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2019/03/15/211221)
 * 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://jawsug-bgnr.connpass.com/event/101789/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
-
-
----
