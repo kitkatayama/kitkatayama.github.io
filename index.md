@@ -63,9 +63,9 @@
 
 ### was at
 
-* 2019/03/13 [SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2019/03/14/031112)
-* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://oss-gate-fukuoka.connpass.com/event/121702/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2019/03/15/211221)
-* 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://jawsug-bgnr.connpass.com/event/101789/), [Blog entry](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
+* 2019/03/13 [SRE meetup at Fukuoka #1](https://moffumoffu.hatenablog.com/entry/2019/03/14/031112)
+* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://moffumoffu.hatenablog.com/entry/2019/03/15/211221)
+* 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://moffumoffu.hatenablog.com/entry/2018/10/18/202840)
 
 ### will be at
 
