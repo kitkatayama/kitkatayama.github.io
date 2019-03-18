@@ -2,7 +2,7 @@
 
 ## about me
 
-* もふもふ or Kazuo KATAYAMA, as <b>kitkatayama</b>
+* もふもふ or Kazuo KATAYAMA, as **kitkatayama**
   * accounts: [Twitter](https://twitter.com/kitkatayama), [GitHub](https://github.com/kitkatayama), [Hatena Blog](https://kitkatayama.hatenablog.com/), [facebook](https://www.facebook.com/kitkazuokatayama), [infra-workshop](https://wiki.infra-workshop.tech/user/kitkatayama)
   * email: [iam@kitkatayama.com](mailto:iam@kitkatayama.com)
 * あらすじ
@@ -37,11 +37,11 @@
 
 ## certification
 
-* 2017/04/01 情報処理安全確保支援士([登録番号: 002464](https://riss.ipa.go.jp/r?r=002464))
-* 2016/12/16 ネットワークスペシャリスト試験(NW)合格
-* 2013/06/21 セキュリティスペシャリスト試験(SC)合格
-* 2011/12/16 応用情報技術者試験(AP)合格
-* 2011/08/05 基本情報技術者試験(FE)合格
+* 2017/04/01 情報処理安全確保支援士 登録([登録番号第002464号](https://riss.ipa.go.jp/r?r=002464))
+* 2016/12/16 ネットワークスペシャリスト試験 合格(NW-2016-10-***97)
+* 2013/06/21 セキュリティスペシャリスト試験 合格(SC-2013-04-***08)
+* 2011/12/16 応用情報技術者試験 合格(AP-2011-10-***53)
+* 2011/08/05 基本情報技術者試験 合格(FE-2011-04-***76)
 
 ## owned domains
 
