@@ -3,11 +3,11 @@
 ## about me
 
 * もふもふ or Kazuo KATAYAMA, as **kitkatayama**
-  * on: [Twitter](https://twitter.com/kitkatayama), [GitHub](https://github.com/kitkatayama), [Hatena Blog](https://kitkatayama.hatenablog.com/), [infra-workshop](https://wiki.infra-workshop.tech/user/kitkatayama), [facebook](https://www.facebook.com/kitkazuokatayama), [LinkedIn](https://www.linkedin.com/in/kitkatayama/)
+  * on: [Twitter](https://twitter.com/kitkatayama), [GitHub](https://github.com/kitkatayama), [はてなブログ](https://kitkatayama.hatenablog.com/), [infra-workshop](https://wiki.infra-workshop.tech/user/kitkatayama), [facebook](https://www.facebook.com/kitkazuokatayama), [LinkedIn](https://www.linkedin.com/in/kitkatayama/)
   * email: [iam@kitkatayama.com](mailto:iam@kitkatayama.com)
 * あらすじ
   * 中学校～高校にてHP公開の楽しさを知り2005年に初のドメイン取得。ドメイン利用に際してDNSやメール、xampp等でコンピュータの仕組みに触れ、情報工学の楽しさに気づく。より専門的な内容を学ぶため九州工業大学へ入学。
-  * 大学にてネットワークの仕組みの美しさに魅入られ、その技術が未来に不可欠であることを確信。ネットワークに関わる様々な仕様を学びつつ、[車車間ネットワークの研究](https://www.toyota-itc.com/publications/index.php?year=1&user=1167)に取り組む。
+  * 大学にてネットワークの仕組みの美しさに魅入られ、その技術が未来に不可欠であることを確信。ネットワークに関わる様々な仕様を学びつつ、車車間ネットワークの研究に取り組む。
   * 学習のモチベーションを保つことができず、九州工業大学大学院を中退。これまで培ったネットワークやインフラ系の知識を活かすため、都内SIerへ入社。
   * 都内SIerにてOffice365の運用やRHELのバージョン間移行設計、構築等を1年、VMware基盤の運用・保守、及び設計・構築を1年半程度担当。様々な要因で心を病んでしまい自己都合退社。
   * 現在は心療内科に通いつつ、勉強会の聴講、登壇や興味のあるリソースの翻訳を行い、技術力と英語力の研鑽に努めている。
@@ -59,6 +59,7 @@
 
 ### speaked
 
+* 2019/03/22 [OSSへのお誘い～weseek/growi-docsを通して～](https://kitkatayama.hatenablog.com/entry/2019/03/22/092703)
 * 2018/10/17 [怖くないクラウドインフラストラクチャサービス](https://kitkatayama.hatenablog.com/entry/2018/10/18/202840)
 * 2018/08/12 [timeという概念](https://kitkatayama.hatenablog.com/entry/2018/10/18/204454)
 * 2018/08/12 [さくらインターネットのことを知りたい！](https://kitkatayama.hatenablog.com/entry/2018/10/18/204454)
@@ -68,7 +69,7 @@
 ### was at
 
 * 2019/03/13 [SRE meetup at Fukuoka #1](https://kitkatayama.hatenablog.com/entry/2019/03/14/031112)
-* 2019/03/11~ [OSS Gate Fukuoka - 2 commits -](https://kitkatayama.hatenablog.com/entry/2019/03/15/211221)
+* 2019/03/11 [OSS Gate Fukuoka - 2 commits -](https://kitkatayama.hatenablog.com/entry/2019/03/15/211221)
 * 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://kitkatayama.hatenablog.com/entry/2018/10/18/202840)
 
 ### will be at
