@@ -3,7 +3,7 @@
 ## about me
 
 * もふもふ or Kazuo KATAYAMA, as **kitkatayama**
-  * **kitkatayama**の由来: **K**yushu **I**nstitute of **T**echnology(九州工業大学)の片山(Katayama)
+  * **kitkatayama**の由来: **K**yushu **I**nstitute of **T**echnology(九州工業大学)の片山(**Katayama**)
   * accounts:
     * [Twitter](https://twitter.com/kitkatayama)
     * [GitHub](https://github.com/kitkatayama)
