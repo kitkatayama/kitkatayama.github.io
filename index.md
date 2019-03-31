@@ -3,10 +3,15 @@
 ## about me
 
 * もふもふ or Kazuo KATAYAMA, as **kitkatayama**
-  * on: [Twitter](https://twitter.com/kitkatayama), [GitHub](https://github.com/kitkatayama), [はてなブログ](https://kitkatayama.hatenablog.com/), [infra-workshop](https://wiki.infra-workshop.tech/user/kitkatayama), [facebook](https://www.facebook.com/kitkazuokatayama), [LinkedIn](https://www.linkedin.com/in/kitkatayama/)
+  * **kitkatayama**の由来: **K**yushu **I**nstitute of **T**echnology(九州工業大学)の片山(Katayama)
+  * accounts:
+    * [Twitter](https://twitter.com/kitkatayama)
+    * [GitHub](https://github.com/kitkatayama)
+    * [はてなブログ](https://kitkatayama.hatenablog.com/)
+    * [facebook](https://www.facebook.com/kitkazuokatayama)
   * email: [iam@kitkatayama.com](mailto:iam@kitkatayama.com)
 * あらすじ
-  * 中学校～高校にてHP公開の楽しさを知り2005年に初のドメイン取得。ドメイン利用に際してDNSやメール、xampp等でコンピュータの仕組みに触れ、情報工学の楽しさに気づく。より専門的な内容を学ぶため九州工業大学へ入学。
+  * 中学～高校にてHP公開の楽しさを知り2005年に初ドメイン取得。ドメイン利用に際してDNSやメール、xampp等を通してコンピュータの仕組みに触れ、情報工学の楽しさに気づく。より専門的な内容を学ぶため九州工業大学へ。
   * 大学にてネットワークの仕組みの美しさに魅入られ、その技術が未来に不可欠であることを確信。ネットワークに関わる様々な仕様を学びつつ、車車間ネットワークの研究に取り組む。
   * 学習のモチベーションを保つことができず、九州工業大学大学院を中退。これまで培ったネットワークやインフラ系の知識を活かすため、都内SIerへ入社。
   * 都内SIerにてOffice365の運用やRHELのバージョン間移行設計、構築等を1年、VMware基盤の運用・保守、及び設計・構築を1年半程度担当。様々な要因で心を病んでしまい自己都合退社。
@@ -68,13 +73,13 @@
 
 ### was at
 
+* 2019/03/22 [レンタルサーバーMeetup in福岡](https://kitkatayama.hatenablog.com/entry/2019/03/24/153956)
 * 2019/03/13 [SRE meetup at Fukuoka #1](https://kitkatayama.hatenablog.com/entry/2019/03/14/031112)
 * 2019/03/11 [OSS Gate Fukuoka - 2 commits -](https://kitkatayama.hatenablog.com/entry/2019/03/15/211221)
 * 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://kitkatayama.hatenablog.com/entry/2018/10/18/202840)
 
 ### will be at
 
-* 2019/03/22 [レンタルサーバーMeetup in福岡](https://pepabo.connpass.com/event/121825/)
 * 2019/04/04 [ゆるっとIT vol.10「ソフトウェアテストの話を聞こう」](https://yurutto-it.connpass.com/event/123280/) as Otetsudai
 * 2019/04/14 [Visual Studio 2019 Launch Event in Fukuoka](https://fukuten.connpass.com/event/121948/)
 * 2019/04/19 [RPA勉強＆LT会！RPALT 福岡 vol.01](https://rpacommunity.connpass.com/event/123191/)
