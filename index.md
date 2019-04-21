@@ -43,7 +43,10 @@
 
 * Network
   * **Computer Networks (by Andrew S. Tanenbaum)** is my bible
-  * Cisco IOS, Arista EOS, VyOS
+  * NOS
+    * Cisco IOS
+    * Arista EOS
+    * [VyOS](https://vyos.io/)
   * Simulation, Emulation
     * [Scenargie](https://www.spacetime-eng.com/en/)
     * [ns-2](https://www.isi.edu/nsnam/ns/)
