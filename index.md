@@ -2,9 +2,7 @@
 
 ## about
 
-* もふもふ or Kazuo KATAYAMA, as **kitkatayama**
-  * origin
-    * [**K**yushu **I**nstitute of **T**echnology](http://www.kyutech.ac.jp/)の**Katayama**
+* もふもふ or Kazuo KATAYAMA, as **kitkatayama** ([**K**yushu **I**nstitute of **T**echnology](http://www.kyutech.ac.jp/)の**katayama**)
   * accounts
     * [Twitter](https://twitter.com/kitkatayama)
     * [GitHub](https://github.com/kitkatayama)
@@ -21,7 +19,7 @@
 
 ## career
 
-* 2018/11 - 2019/03 無職（転職は2019年夏頃を予定）
+* 2018/11 - 2019/05 無職（転職は2019年夏頃を予定）
 * 2016/04 - 2018/11 都内SIer(非上場)
 * 2013/04 - 2016/03 国立九州工業大学大学院 情報システム専攻 中退
 * 2008/04 - 2013/03 国立九州工業大学 情報工学部 電子情報工学科 卒業
@@ -78,9 +76,7 @@
 * [moffulab.com](https://moffulab.com/) (2015/03-)
   * @ for Office 365 and gaming
 * 2next.org (2005/11-)
-  * g for G Suite from beta
-* omoi.dev (2019/03-)
-  * no planning
+  * for general purpose
 
 ---
 
@@ -94,6 +90,7 @@
   * 2018/07/07 [ネットワークのお気持ち 物理編](https://kitkatayama.hatenablog.com/entry/2018/08/04/092854)
   * 2017/03/19 [学生の権利、使ってますか？](https://www.slideshare.net/KazuoKatayama/ss-73352980)
 * was at
+  * 2019/04/24 [九州インフラ交流勉強会(Kixs) Vol.009](https://kixs.connpass.com/event/125160/)
   * 2019/04/08 [#ふくばねてす node-1](https://kitkatayama.hatenablog.com/entry/2019/04/14/225056) ([補足1](https://kitkatayama.hatenablog.com/entry/2019/04/09/230012) [補足2](https://kitkatayama.hatenablog.com/entry/2019/04/12/174340))
   * 2019/04/04 [ゆるっとIT vol.10「ソフトウェアテストの話を聞こう」](https://kitkatayama.hatenablog.com/entry/2019/04/07/151752)
   * 2019/03/22 [レンタルサーバーMeetup in福岡](https://kitkatayama.hatenablog.com/entry/2019/03/24/153956)
@@ -101,4 +98,5 @@
   * 2019/03/11 [OSS Gate Fukuoka - 2 commits -](https://kitkatayama.hatenablog.com/entry/2019/03/15/211221)
   * 2018/10/17 [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://kitkatayama.hatenablog.com/entry/2018/10/18/202840)
 * will be at
-  * 2019/04/24 [九州インフラ交流勉強会(Kixs) Vol.009](https://kixs.connpass.com/event/125160/)
+  * 2019/05/21 [Datadogはじめました in 福岡](https://datadog.connpass.com/event/127939/)
+  * 2019/05/23 [Nutanix Meetup #39 in Fukuoka](https://nutanix.connpass.com/event/129253/)
