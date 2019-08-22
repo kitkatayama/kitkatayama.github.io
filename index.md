@@ -69,20 +69,10 @@
 
 ---
 
-## domain
-
-* [kitkatayama.com](https://kitkatayama.com/) (2018/10-)
-  * @ for AWS and personal info
-* [moffulab.com](https://moffulab.com/) (2015/03-)
-  * @ for Office 365 and gaming
-* 2next.org (2005/11-)
-  * for general purpose
-
----
-
 ## seminar
 
 * speaked
+  * 2019/08/08 []
   * 2019/03/22 [OSSへのお誘い～weseek/growi-docsを通して～](https://kitkatayama.hatenablog.com/entry/2019/03/22/092703)
   * 2018/10/17 [怖くないクラウドインフラストラクチャサービス](https://kitkatayama.hatenablog.com/entry/2018/10/18/202840)
   * 2018/08/12 [timeという概念](https://kitkatayama.hatenablog.com/entry/2018/10/18/204454)
