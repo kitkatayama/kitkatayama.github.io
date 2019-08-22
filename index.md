@@ -71,8 +71,8 @@
 
 ## seminar
 
-* speaked
-  * 2019/08/08 []
+* 発表
+  * 2019/08/08 [#CNDT2019 / #OSDT2019 始めよう！](https://kitkatayama.hatenablog.com/entry/2019/08/22/160245)
   * 2019/03/22 [OSSへのお誘い～weseek/growi-docsを通して～](https://kitkatayama.hatenablog.com/entry/2019/03/22/092703)
   * 2018/10/17 [怖くないクラウドインフラストラクチャサービス](https://kitkatayama.hatenablog.com/entry/2018/10/18/202840)
   * 2018/08/12 [timeという概念](https://kitkatayama.hatenablog.com/entry/2018/10/18/204454)
