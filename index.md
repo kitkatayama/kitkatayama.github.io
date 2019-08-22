@@ -10,12 +10,17 @@
     * [facebook](https://www.facebook.com/kitkazuokatayama)
   * email
     * [iam@kitkatayama.com](mailto:iam@kitkatayama.com)
-  * personal history
-    * 中学～高校にてHP公開の楽しさを知り2005年に初ドメイン取得。ドメイン利用に際してDNSやメール、xampp等を通してコンピュータの仕組みに触れ、情報工学の楽しさに気づく。より専門的な内容を学ぶため九州工業大学へ。
-    * 大学にてネットワークの仕組みの美しさに魅入られ、その技術が未来に不可欠であることを確信。ネットワークに関わる様々な仕様を学びつつ、車車間ネットワークの研究に取り組む。
-    * 学習のモチベーションを保つことができず、九州工業大学大学院を中退。これまで培ったネットワークやインフラ系の知識を活かすため、都内SIerへ入社。
-    * 都内SIerにてOffice365の運用やRHELのバージョン間移行設計、構築等を1年、VMware基盤の運用・保守、及び設計・構築を1年半程度担当。様々な要因で心を病んでしまい自己都合退社。
-    * 現在は心療内科に通いつつ、勉強会の聴講、登壇や興味のあるリソースの翻訳を行い、技術力と英語力の研鑽に努めている。
+
+<details>
+  <summary>personal history</summary>
+<p>中学～高校にてHP公開の楽しさを知り2005年に初ドメイン取得。ドメイン利用に際してDNSやメール、xampp等を通してコンピュータの仕組みに触れ、情報工学の楽しさに気づく。より専門的な内容を学ぶため九州工業大学へ。</p>
+<p>大学にてネットワークの仕組みの美しさに魅入られ、その技術が未来に不可欠であることを確信。ネットワークに関わる様々な仕様を学びつつ、車車間ネットワークの研究に取り組む。</p>
+<p>学習のモチベーションを保つことができず、九州工業大学大学院を中退。これまで培ったネットワークやインフラ系の知識を活かすため、都内SIerへ入社。</p>
+<p>都内SIerにてOffice365の運用やRHELのバージョン間移行設計、構築等を1年、VMware基盤の運用・保守、及び設計・構築を1年半程度担当。様々な要因で心を病んでしまい自己都合退社。</p>
+<p>現在は心療内科に通いつつ、勉強会の聴講、登壇や興味のあるリソースの翻訳を行い、技術力と英語力の研鑽に努めている。</p>
+</details>
+
+---
 
 ## 経歴
 
@@ -34,48 +39,19 @@
 
 ## 興味・関心
 
-* Network全般
-* Windows, Linux
-* 翻訳
-  * [Challonge.com 英日翻訳](https://kitkatayama.hatenablog.com/entry/2019/03/02/184623)
-
-<details>
-  <summary>詳細はこちら</summary>
-
-  <div>
-  * Network
-    * **Computer Networks (by Andrew S. Tanenbaum)** is my bible
-    * NOS
-      * Cisco IOS
-      * Arista EOS
-      * [VyOS](https://vyos.io/)
-    * Simulation, Emulation
-      * [Scenargie](https://www.spacetime-eng.com/en/)
-      * [ns-2](https://www.isi.edu/nsnam/ns/)
-    * LPWA
-      * [LoRaWAN](https://lora-alliance.org/about-lorawan)
-      * [ELTRES - Sony's LPWA](https://www.sony-semicon.co.jp/products_ja/eltres/index.html)
-  * OS
-    * [Red Hat Enterprise Linux(RHEL)](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) 5, 6, 7
-    * [CentOS](https://www.centos.org/) 5, 6
-    * [Windows Server](https://www.microsoft.com/ja-jp/cloud-platform/windows-server) 2012, 2016
-    * [VMware](https://www.vmware.com/jp.html) ESXi, vCenter Server
-    * [RancherOS](https://rancher.com/rancher-os/)
-  * Other
-    * Languages / Scripting
-      * C++
-      * Python
-      * sh/bash
-    * Container
-      * Docker
-      * Kubernetes
-      * [Rancher](https://rancher.com/)
-    * Office 365
-  </div>
-
-</details>
-
----
+* Network
+  * **Computer Networks (by Andrew S. Tanenbaum)** is my bible
+  * NOS: Cisco IOS, Arista EOS, [VyOS](https://vyos.io/)
+  * Simulation, Emulation: [Scenargie](https://www.spacetime-eng.com/en/), [ns-2](https://www.isi.edu/nsnam/ns/)
+  * LPWA: [LoRaWAN](https://lora-alliance.org/about-lorawan), [ELTRES - Sony's LPWA](https://www.sony-semicon.co.jp/products_ja/eltres/index.html)
+* OS
+  * [Red Hat Enterprise Linux(RHEL)](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux), [CentOS](https://www.centos.org/), [Windows](https://www.microsoft.com/ja-jp/cloud-platform/windows-server), [VMware](https://www.vmware.com/jp.html) {ESXi, vCS}, [RancherOS](https://rancher.com/rancher-os/)
+* Other
+  * Languages / Scripting: C++, Python, sh/bash
+  * Container: Docker, Kubernetes, [Rancher](https://rancher.com/)
+  * Office 365
+  * Translation
+    * [Challonge.com 英日翻訳](https://kitkatayama.hatenablog.com/entry/2019/03/02/184623)
 
 ## 勉強会・セミナー
 
