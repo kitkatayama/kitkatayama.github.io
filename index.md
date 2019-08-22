@@ -42,36 +42,40 @@
 <details>
   <summary>詳細はこちら</summary>
 
-* Network
-  * **Computer Networks (by Andrew S. Tanenbaum)** is my bible
-  * NOS
-    * Cisco IOS
-    * Arista EOS
-    * [VyOS](https://vyos.io/)
-  * Simulation, Emulation
-    * [Scenargie](https://www.spacetime-eng.com/en/)
-    * [ns-2](https://www.isi.edu/nsnam/ns/)
-  * LPWA
-    * [LoRaWAN](https://lora-alliance.org/about-lorawan)
-    * [ELTRES - Sony's LPWA](https://www.sony-semicon.co.jp/products_ja/eltres/index.html)
-* OS
-  * [Red Hat Enterprise Linux(RHEL)](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) 5, 6, 7
-  * [CentOS](https://www.centos.org/) 5, 6
-  * [Windows Server](https://www.microsoft.com/ja-jp/cloud-platform/windows-server) 2012, 2016
-  * [VMware](https://www.vmware.com/jp.html) ESXi, vCenter Server
-  * [RancherOS](https://rancher.com/rancher-os/)
-* Other
-  * Languages / Scripting
-    * C++
-    * Python
-    * sh/bash
-  * Container
-    * Docker
-    * Kubernetes
-    * [Rancher](https://rancher.com/)
-  * Office 365
+  <p>
+  * Network
+    * **Computer Networks (by Andrew S. Tanenbaum)** is my bible
+    * NOS
+      * Cisco IOS
+      * Arista EOS
+      * [VyOS](https://vyos.io/)
+    * Simulation, Emulation
+      * [Scenargie](https://www.spacetime-eng.com/en/)
+      * [ns-2](https://www.isi.edu/nsnam/ns/)
+    * LPWA
+      * [LoRaWAN](https://lora-alliance.org/about-lorawan)
+      * [ELTRES - Sony's LPWA](https://www.sony-semicon.co.jp/products_ja/eltres/index.html)
+  * OS
+    * [Red Hat Enterprise Linux(RHEL)](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) 5, 6, 7
+    * [CentOS](https://www.centos.org/) 5, 6
+    * [Windows Server](https://www.microsoft.com/ja-jp/cloud-platform/windows-server) 2012, 2016
+    * [VMware](https://www.vmware.com/jp.html) ESXi, vCenter Server
+    * [RancherOS](https://rancher.com/rancher-os/)
+  * Other
+    * Languages / Scripting
+      * C++
+      * Python
+      * sh/bash
+    * Container
+      * Docker
+      * Kubernetes
+      * [Rancher](https://rancher.com/)
+    * Office 365
+  </p>
 
 </details>
+
+---
 
 ## 勉強会・セミナー
 
