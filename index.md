@@ -42,7 +42,7 @@
 <details>
   <summary>詳細はこちら</summary>
 
-  <p>
+  <div>
   * Network
     * **Computer Networks (by Andrew S. Tanenbaum)** is my bible
     * NOS
@@ -71,7 +71,7 @@
       * Kubernetes
       * [Rancher](https://rancher.com/)
     * Office 365
-  </p>
+  </div>
 
 </details>
 
