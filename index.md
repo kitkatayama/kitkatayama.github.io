@@ -16,7 +16,8 @@
 <p>大学にてネットワークの仕組みの美しさに魅入られ、その技術が未来に不可欠であることを確信。ネットワークに関わる様々な仕様を学びつつ、車車間ネットワークの研究に取り組む。</p>
 <p>学習のモチベーションを保つことができず、九州工業大学大学院を中退。これまで培ったネットワークやインフラ系の知識を活かすため、都内SIerへ入社。</p>
 <p>都内SIerにてOffice365の運用やRHELのバージョン間移行設計、構築等を1年、VMware基盤の運用・保守、及び設計・構築を1年半程度担当。様々な要因で心を病んでしまい自己都合退社。</p>
-<p>退社後は勉強会の聴講、登壇や興味のあるリソースの翻訳を行い、技術力と英語力の研鑽に努めていたが、2020年1月に縁あって福岡にて就職予定。</p>
+<p>退社後は勉強会の聴講、登壇や興味のあるリソースの翻訳を行い、技術力と英語力の研鑽に努めていた。</p>
+<p>2020年1月より、縁あって福岡にて仕事開始予定。</p>
 </details>
 
 ---
@@ -55,10 +56,13 @@
 
 ## 勉強会・セミナー
 
+connpassで参加したものについては、 [kitkatayama](https://connpass.com/user/kitkatayama/) と [MoffuMoffu（旧アカウント）](https://connpass.com/user/MoffuMoffu/) にアクセスいただくと分かりやすいです。
+
 * 予定
-  * 2019/08/24 [FGNエンジニアMeetup vol.2](https://fgn.connpass.com/event/138373/)
-  * 2019/09/02 [Cloud Native Online #03](https://cnjp.connpass.com/event/142769/)
+  * 2019/11/08 [Fukuoka.rs vol.6 〜LT会〜](https://fukuokars.connpass.com/event/151353/)
 * 発表
+  * 2019/10/18 [Ubuntu 19.10リリース！皆でリリースノート読もうぜ](https://kitkatayama.hatenablog.com/entry/2019/10/21/040801)
+  * 2019/09/24 [CentOS 8リリース記念！何が変わったのか抑えよう！](https://kitkatayama.hatenablog.com/entry/2019/10/21/040655)
   * 2019/08/08 [#CNDT2019 / #OSDT2019 始めよう！](https://kitkatayama.hatenablog.com/entry/2019/08/22/160245)
   * 2019/07/26 [CloudNative Days Tokyo 2019 #CNDT2019 公開資料振り返り](https://kitkatayama.hatenablog.com/entry/2019/08/22/160022)
   * 2019/03/22 [OSSへのお誘い～weseek/growi-docsを通して～](https://kitkatayama.hatenablog.com/entry/2019/03/22/092703)
@@ -68,6 +72,11 @@
   * 2018/07/07 [ネットワークのお気持ち 物理編](https://kitkatayama.hatenablog.com/entry/2018/08/04/092854)
   * 2017/03/19 [学生の権利、使ってますか？](https://www.slideshare.net/KazuoKatayama/ss-73352980)
 * 来訪
+  * 2019/10/10 [エンジニアのための多様な「リモートワーク」の形を3社の事例から考える](https://sansan.connpass.com/event/145842/)
+  * 2019/09/26 [Cybozu Meetup in 福岡 #1](https://cybozu.connpass.com/event/144402/)
+  * 2019/09/17 [ヤフー福岡 Tech Meetup #5 「ヤフーの開発文化」 #yjfukuoka](https://kitkatayama.hatenablog.com/entry/2019/09/19/112814)
+  * 2019/09/02 [Cloud Native Online #03](https://cnjp.connpass.com/event/142769/)
+  * 2019/08/24 [FGNエンジニアMeetup vol.2](https://fgn.connpass.com/event/138373/)
   * 2019/07/11 [#ふくばねてす node-2](https://fukubernetes.connpass.com/event/135117/)
   * 2019/05/23 [Nutanix Meetup #39 in Fukuoka](https://nutanix.connpass.com/event/129253/)
   * 2019/05/21 [Datadogはじめました in 福岡](https://datadog.connpass.com/event/127939/)
